@@ -1,0 +1,8 @@
+  File: incident-001-lab/update.sh
+  Size: 97        	Blocks: 8          IO Block: 4096   regular file
+Device: 259,3	Inode: 663894      Links: 1
+Access: (0764/-rwxrw-r--)  Uid: ( 1000/    v1nr)   Gid: ( 1000/    v1nr)
+Access: 2026-11-16 10:51:18.505985167 -0500
+Modify: 2026-11-16 10:35:41.522166266 -0500
+Change: 2026-11-16 10:48:06.572490710 -0500
+ Birth: 2026-11-16 10:33:01.418159550 -0500

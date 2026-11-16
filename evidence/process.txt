@@ -1,0 +1,6 @@
+systemd,1 splash
+  `-systemd,4171 --user
+      `-gnome-terminal-,6733
+          `-zsh,6740
+              `-update.sh,80084 ./incident-001-lab/update.sh
+                  `-sleep,80089 300
